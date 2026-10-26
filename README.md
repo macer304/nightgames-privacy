@@ -1,0 +1,2 @@
+# nightgames-privacy
+Privacy Policy
