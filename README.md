@@ -1,30 +1,3 @@
-<style>
-  body {
-    background-color: #0d1117 !important;
-    color: #e6edf3 !important;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 0 24px;
-  }
-  h1, h2, h3, h4 {
-    color: #ffffff !important;
-    border-bottom: 1px solid #30363d;
-    padding-bottom: 8px;
-  }
-  a {
-    color: #58a6ff !important;
-  }
-  hr {
-    border: none;
-    border-top: 1px solid #30363d;
-  }
-  code {
-    background-color: #161b22;
-    color: #f0f6fc;
-  }
-</style>
 # NightGames – Privacy Policy & Support
 
 **Effective Date:** October 20, 2026
